@@ -1,4 +1,4 @@
-# Library Information System Mobile App (Perpus Kita)
+# Library Information System Mobile App 
 
 ## Description
 A mobile-based library application to manage book data, members, and borrowing transactions easily.
