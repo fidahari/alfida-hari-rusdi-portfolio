@@ -16,9 +16,6 @@ UI/UX Design – Online Store
 - Shop now button
 - Product details
 
-## Preview
-(Add screenshots here)
-
 ## Prototype
-(Add Figma link here)
+https://www.figma.com/design/EAa5PNbPnea1B8kxCMkurO/Untitled?node-id=0-1&t=Aqa8JcIqoSBvlaA3-1
 
