@@ -20,5 +20,5 @@ UI/UX Design – Mobile Application / Library System
 - User profile
 
 ## Prototype
-https://www.figma.com/your-link-here
+https://www.figma.com/design/KY2jmRj0ZQB7g5b6iX5jBV/SISTEM-INFORMASI-PERPUSTAKAAN?node-id=0-1&t=iNEDF0o4nsqhSlTa-1
 
